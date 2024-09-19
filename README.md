@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashivk&label=Profile%20views&color=0e75b6&style=flat" alt="shashivk" /> </p>
 
-<p align="left"> <a href="https://twitter.com/VangaShashi" target="blank"><img src="https://img.shields.io/twitter/follow/VangaShashi?logo=twitter&style=for-the-badge" alt="VangaShashi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vangashashi" target="blank"><img src="https://img.shields.io/twitter/follow/vangashashi?logo=twitter&style=for-the-badge" alt="vangashashi" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA,**
 
 - 👨‍💻 All of my projects are available at [https://shashikumarvanga.netlify.app/](https://shashikumarvanga.netlify.app/)
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shashiyashu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashiyashu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shashikumar vanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashikumar vanga" height="30" width="40" /></a>
+<a href="https://twitter.com/vangashashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vangashashi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shashikumar-vanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashikumar-vanga" height="30" width="40" /></a>
 <a href="https://instagram.com/shashivk183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashivk183" height="30" width="40" /></a>
 <a href="https://discord.gg/shashivk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shashivk" height="30" width="40" /></a>
 </p>
