@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashivk&label=Profile%20views&color=0e75b6&style=flat" alt="shashivk" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shashiyashu" target="blank"><img src="https://img.shields.io/twitter/follow/shashiyashu?logo=twitter&style=for-the-badge" alt="shashiyashu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/VangaShashi" target="blank"><img src="https://img.shields.io/twitter/follow/VangaShashi?logo=twitter&style=for-the-badge" alt="VangaShashi" /></a> </p>
 
-- 🌱 I’m currently learning **DSA,**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://shashikumarvanga.netlify.app/](https://shashikumarvanga.netlify.app/)
 
